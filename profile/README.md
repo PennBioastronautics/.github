@@ -1,4 +1,4 @@
-# 🌌 Penn Bioastronautics  
+# 🌌 Penn BioAstronautics  
 
 **Pioneering the future of space biology and human exploration beyond Earth**  
 University of Pennsylvania's premier student organization for bioastronautics research and innovation.
